@@ -28,10 +28,6 @@ export default function Imc(){
             return(
                 <Text> Acima do peso Fadiga, má circulação, varizes...</Text>
             )}
-        else if(dados.resultado == 0){
-            return(
-                <Text>Sintomas</Text>
-            )}
         };
        
     
